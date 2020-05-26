@@ -1,3 +1,4 @@
+// Добавлять записи связанных таблиц через транзакции
 const mongoose = require('mongoose');
 
 const userSchema = mongoose.Schema({
